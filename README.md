@@ -37,7 +37,8 @@ Clean exit message displayed when you quit the game.
 
 **Windows:**
 1. Download or compile the executable
-2. Run `main.exe` from Command Prompt
+2. Compile: `g++ -std=c++20  main.cpp -o main.exe`
+3. Run `main.exe` from Command Prompt
 
 **Linux/macOS:**
 1. Ensure you have a C++ compiler installed (`g++`)
