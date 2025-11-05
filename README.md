@@ -25,6 +25,7 @@ Real-time action showing the snake (displayed as `O` for head and `o` for body s
 
 **Game Over Screen**
 Final score display with high score tracking and options to replay or quit. New high scores are highlighted.
+
 ![Game Over](https://github.com/maitry4/code_crafters/blob/main/Game%20Screenshots/game_over.png)
 
 **Quit Confirmation**
